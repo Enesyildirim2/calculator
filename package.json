@@ -1,0 +1,12 @@
+{
+  "name": "s-testing-assignment",
+  "version": "1.0.0",
+  "description": "calculator application for assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
